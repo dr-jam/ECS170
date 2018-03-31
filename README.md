@@ -68,11 +68,23 @@ F  | 0
 
 ### Quizzes and Homework
 
+There will be a quiz and a homework for each major topic in the course. Each quiz will be weighted equally with respect to your quiz and homework total score. Quizzes will be taken in either lecture or lab meetings and will be announced ahead of time. All students are required to complete the homework assignments. Homework will not be graded but valid attempts must be made on each question. If the homework is missing or incomplete, the score of the related quiz may be penalized. Homework will be submitted via GradeScope.
+
 ### Project
 
 ### Examination
 
 ### Participation
+
+### Extra Credit Opportunities
+
+## Course Community and Resources
+
+* GitHub
+* Canvas
+* Piazza
+* GradeScope
+
 
 ## UC Davis Code of Academic Conduct
 
