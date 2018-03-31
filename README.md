@@ -30,6 +30,15 @@ As this is an advanced course in computer science, the work and reading loads wi
 * Increase competency with  software design while engaging in good programming practices.
 * Engage the with history and current state of artificial intelligence.
 
+## Schedule
+
+Week | Topic | Reading and Assignments
+---- | ----- | ------
+1 | Introduction to and Historey of AI | Russell and Norvig Chapters 1 & 2, The Knowledge Level by Newell
+
+
+## Due Dates
+
 ## Texts and Resources
 * ***Required***: Artificial Intelligence: A Modern Approach 3rd edition by Stuart Russell and Peter Norvig. http://aima.cs.berkeley.edu/  
 * *Optional*:  Artificial Intelligence: Foundations of Computational Agents by David Poole and Alan Mackworth. Freely * available online: http://artint.info  
@@ -68,17 +77,23 @@ F  | 0
 
 ### Quizzes and Homework
 
-There will be a quiz and a homework for each major topic in the course. Each quiz will be weighted equally with respect to your quiz and homework total score. Quizzes will be taken in either lecture or lab meetings and will be announced ahead of time. All students are required to complete the homework assignments. Homework will not be graded but valid attempts must be made on each question. If the homework is missing or incomplete, the score of the related quiz may be penalized. Homework will be submitted via GradeScope.
+There will be a quiz and a homework for each major topic in the course and will comprise the largest portion of your grade. Each quiz will be weighted equally with respect to your quiz and homework total score. Quizzes will be taken in either lecture or lab meetings and will be announced ahead of time. All students are required to complete the homework assignments. Homework will not be graded but valid attempts must be made on each question. If the homework is missing or incomplete, the score of the related quiz may be penalized. Homework will be submitted via GradeScope.
 
 ### Project
 
+This course features quarter-long group project featuring the intersection of StarCraft II and the artificial intelligence techniques discussed in class.
+
 ### Examination
+
+There will be one comprehensive examination over the topic areas covered by the course. 
 
 ### Participation
 
 ### Extra Credit Opportunities
 
 ## Course Community and Resources
+
+This course will make use of several external online resources. The UC Davis Code of Academic Conduct applies to your interactions on these resources. 
 
 ### GitHub
 
