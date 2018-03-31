@@ -80,10 +80,21 @@ There will be a quiz and a homework for each major topic in the course. Each qui
 
 ## Course Community and Resources
 
-* GitHub
-* Canvas
-* Piazza
-* GradeScope
+### GitHub
+
+### Canvas
+
+
+### Piazza
+Piazza will be used for discussion outside of lectures, labs, and office hours. After signing up, you can access the Piazza instance for this course here:  
+piazza.com/uc_davis/spring2018/ecs170/home
+
+
+Use the following information to join:  
+* Sign-up link: https://piazza.com/uc_davis/spring2018/ecs170  
+* Sign-up code: ecs170  
+
+### GradeScope
 
 
 ## UC Davis Code of Academic Conduct
