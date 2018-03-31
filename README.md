@@ -53,7 +53,7 @@ Participation | 10
 
 Grade | Point Threshold
 ------ | -------
-A  | 95+
+A  | 95
 A- | 90
 B+ | 87
 B  | 84
@@ -65,6 +65,14 @@ D+ | 67
 D  | 64
 D- | 60
 F  | 0
+
+### Quizzes and Homework
+
+### Project
+
+### Examination
+
+### Participation
 
 ## UC Davis Code of Academic Conduct
 
