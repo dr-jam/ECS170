@@ -38,6 +38,33 @@ As this is an advanced course in computer science, the work and reading loads wi
 *Optional*: Artificial Intelligence for Games, Second Edition by Ian Millington and John Funge: http://ai4g.com/  
 *Optional*: Logic in Action Open Course Project. Freely available online: http://www.logicinaction.org/  
 
+## Grading
+
+Your performance in this course will be assessed in 5 areas with the following weights on a 100 point scale:
+
+Area | Points
+------------ | -------------
+Quizzes and Homework | 40
+Project | 30
+Examination | 20
+Participation | 10
+
+### Grade Scale
+
+Grade | Point Threshold
+------ | -------
+A  | 95+
+A- | 90
+B+ | 87
+B  | 84
+B- | 80
+C+ | 77
+C  | 74
+C- | 70
+D+ | 67
+D  | 64
+D- | 60
+F  | 0
 
 ## UC Davis Code of Academic Conduct
 
