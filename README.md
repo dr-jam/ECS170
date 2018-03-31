@@ -4,18 +4,16 @@ UC Davis, Computer Science Department, Spring 2018
 ## Basic Information
 
 ### Instructor
-Dr. Joshua A. McCoy, Assistant Professor
-Computer Science and Cinema and Digital Media Departments
-
-Email: jamccoy@ucdavis.edu
-
-Office: 3033 Kemper Hall
+Dr. Joshua A. McCoy, Assistant Professor . 
+Computer Science and Cinema and Digital Media Departments . 
+Email: jamccoy at ucdavis dot edu . 
+Office: 3033 Kemper Hall . 
 
 ### Course
-Lecture Meeting Time: Mondays, Wednesdays, and Fridays at 9:00-9:50 am in Wellman 106
-Section 1 Lab: Mondays at 12:10-1:00 pm in Olson 158
-Section 2 Lab: Thursdays at 3:10-4:00 pm in Wellman 212
-Final Examination Period: June 12th at 1:00 pm
+Lecture Meeting Time: Mondays, Wednesdays, and Fridays at 9:00-9:50 am in Wellman 106 . 
+Section 1 Lab: Mondays at 12:10-1:00 pm in Olson 158 . 
+Section 2 Lab: Thursdays at 3:10-4:00 pm in Wellman 212 . 
+Final Examination Period: June 12th at 1:00 pm . 
 
 ## Course Description
 
