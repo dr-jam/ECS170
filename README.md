@@ -16,6 +16,15 @@ https://faculty.engineering.ucdavis.edu/mccoy/
 https://www.twitter.com/deftjams  
 https://www.twitch.tv/deftjamz  
 
+### Teaching Assistants
+
+#### Dian Yu	
+diayu at ucdavis dot edu
+
+#### Ayush Jain 
+jain at ucdavisd dot edu
+
+
 ### Course
 Lecture Meeting Time: Mondays, Wednesdays, and Fridays at 9:00-9:50 am in Wellman 106  
 Section 1 Lab: Mondays at 12:10-1:00 pm in Olson 158  
