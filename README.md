@@ -34,8 +34,10 @@ As this is an advanced course in computer science, the work and reading loads wi
 
 Week | Topic | Reading and Assignments
 ---- | ----- | ------
-1 | Introduction to and Historey of AI | Russell and Norvig Chapters 1 & 2, The Knowledge Level by Newell
-
+1 | Introduction to and Historey of AI | Russell and Norvig Chapters 1 & 2<br/>The Knowledge Level by Newell
+2 | Search | Russell and Norvig Chapter 3
+3 | |
+4 | | 
 
 ## Due Dates
 
