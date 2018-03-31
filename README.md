@@ -31,12 +31,12 @@ As this is an advanced course in computer science, the work and reading loads wi
 * Engage the with history and current state of artificial intelligence.
 
 ## Texts and Resources
-***Required***: Artificial Intelligence: A Modern Approach 3rd edition by Stuart Russell and Peter Norvig. http://aima.cs.berkeley.edu/  
-*Optional*:  Artificial Intelligence: Foundations of Computational Agents by David Poole and Alan Mackworth. Freely available online: http://artint.info  
-*Optional*:  A Modern Formal Logic Primer by Paul Teller. Freely available online: http://tellerprimer.ucdavis.edu/  
-*Optional*:  Techniques of Formal Reasoning by Kalish, Montague, and Mar. Chapters I-VI freely available online: http://www.philosophy.ucla.edu/people/faculty/tparsons/Logic%20Text/  
-*Optional*: Artificial Intelligence for Games, Second Edition by Ian Millington and John Funge: http://ai4g.com/  
-*Optional*: Logic in Action Open Course Project. Freely available online: http://www.logicinaction.org/  
+* ***Required***: Artificial Intelligence: A Modern Approach 3rd edition by Stuart Russell and Peter Norvig. http://aima.cs.berkeley.edu/  
+* *Optional*:  Artificial Intelligence: Foundations of Computational Agents by David Poole and Alan Mackworth. Freely * available online: http://artint.info  
+* *Optional*:  A Modern Formal Logic Primer by Paul Teller. Freely available online: http://tellerprimer.ucdavis.edu/  
+* *Optional*:  Techniques of Formal Reasoning by Kalish, Montague, and Mar. Chapters I-VI freely available online: http://www.philosophy.ucla.edu/people/faculty/tparsons/Logic%20Text/  
+* *Optional*: Artificial Intelligence for Games, Second Edition by Ian Millington and John Funge: http://ai4g.com/  
+* *Optional*: Logic in Action Open Course Project. Freely available online: http://www.logicinaction.org/  
 
 ## Grading
 
@@ -82,12 +82,16 @@ There will be a quiz and a homework for each major topic in the course. Each qui
 
 ### GitHub
 
+The official course material and syllabus are on GitHub:
+https://github.com/dr-jam/ECS170
+
 ### Canvas
 
+After coursework is assessed, grades will be placed on Canvas. This service may also be used for selective assessment purposes.
 
 ### Piazza
 Piazza will be used for discussion outside of lectures, labs, and office hours. After signing up, you can access the Piazza instance for this course here:  
-piazza.com/uc_davis/spring2018/ecs170/home
+https://piazza.com/uc_davis/spring2018/ecs170/home
 
 
 Use the following information to join:  
@@ -96,6 +100,7 @@ Use the following information to join:
 
 ### GradeScope
 
+GradeScope is where you will submit your homework in PDF format. Site and sign-up information forthcoming.
 
 ## UC Davis Code of Academic Conduct
 
