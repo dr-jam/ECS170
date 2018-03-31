@@ -1,6 +1,9 @@
 # ECS170 Artificial Intelligence
 UC Davis, Computer Science Department, Spring 2018
 
+
+# Syllabus
+
 ## Basic Information
 
 ### Instructor
@@ -34,6 +37,11 @@ As this is an advanced course in computer science, the work and reading loads wi
 *Optional*:  Techniques of Formal Reasoning by Kalish, Montague, and Mar. Chapters I-VI freely available online: http://www.philosophy.ucla.edu/people/faculty/tparsons/Logic%20Text/  
 *Optional*: Artificial Intelligence for Games, Second Edition by Ian Millington and John Funge: http://ai4g.com/  
 *Optional*: Logic in Action Open Course Project. Freely available online: http://www.logicinaction.org/  
+
+
+## UC Davis Code of Academic Conduct
+
+The UC Davis Code of Academic Conduct (http://sja.ucdavis.edu/files/cac.pdf) will be strictly enforced in this class. In particular, plagiarism, academic dishonesty, and cheating will be dealt with severely.  Any breach of the Code of Academic conduct can result in failing the assignment, failing the course, and displinary action via the Office of Student Support and Judicial Affairs (http://sja.ucdavis.edu/).
 
 
 ## Technology in the Classroom Policy
