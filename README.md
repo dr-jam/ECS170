@@ -6,7 +6,9 @@ UC Davis, Computer Science Department, Spring 2018
 ### Instructor
 Dr. Joshua A. McCoy, Assistant Professor
 Computer Science and Cinema and Digital Media Departments
+
 Email: jamccoy@ucdavis.edu
+
 Office: 3033 Kemper Hall
 
 ### Course
