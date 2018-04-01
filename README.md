@@ -46,7 +46,7 @@ As this is an advanced course in computer science, the work and reading loads wi
 ## Schedule
 
 Topic | Weeks | Reading and Assignments | Lab Project
----- | ----- | ------
+---- | ----- | ------ | ------
 Introduction<br>History<br>Overview | 1 | Russell and Norvig Chapters 1 and 2<br/>[The Knowledge Level] (materials/TheKnowledgeLevel-Newell.pdf) by Newell | Discussion<br>Introduction to Project
 **Search**<br>Pathplanning<br>Adversarial | 2-3 |Russell and Norvig Chapters 3 and 4<br>[Jump Point Search with Goal Bounding](https://github.com/SteveRabin/JPSPlusWithGoalBounding) by Rabin<br>[The Magic of Monte-Carlo Tree Search](http://www.aifactory.co.uk/newsletter/2017_02_magic_montecarlo.htm) | Introduction to RTS games and StarCraft 2
 **Learning**<br>Statistics-based<br>Evolutionary<br>Symbolic | 4-5 | Russell and Norvig Chapter 18 | Project Proposals <br> Team Formation
