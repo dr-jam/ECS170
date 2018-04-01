@@ -47,13 +47,13 @@ As this is an advanced course in computer science, the work and reading loads wi
 
 Topic | Weeks | Reading and Assignments
 ---- | ----- | ------
-Introduction<br>History<br>Overview | 1 | Russell and Norvig Chapters 1 & 2<br/>The Knowledge Level by Newell
-**Search**<br>Pathplanning<br>Adversarial | 2-3 |Russell and Norvig Chapter 3
-**Learning**<br>Statistics-based<br>Evolutionary<br>Symbolic | 4-5 | 
-**Knowledge Representation**<br>Ontologies | 6 |
+Introduction<br>History<br>Overview | 1 | Russell and Norvig Chapters 1 and 2<br/>The Knowledge Level by Newell
+**Search**<br>Pathplanning<br>Adversarial | 2-3 |Russell and Norvig Chapters 3 and 4
+**Learning**<br>Statistics-based<br>Evolutionary<br>Symbolic | 4-5 | Russell and Norvig Chapter 18
+**Knowledge Representation**<br>Ontologies | 6 | 
 **Constraint Satisfaction**<br>Procedural Generation<br>Grammars | 6 |
-**Logic**<br>Propositional<br>Frist-order<br>Expert Systems<br>Rules-based Systems | 7 | 
-**Planning**<br>Generative<br>Reactive | 8 | 
+**Logic**<br>Propositional<br>Frist-order<br>Expert Systems<br>Rules-based Systems | 7 | Russell and Norvig Chapters 7, 8, and 9
+**Planning**<br>Generative<br>Reactive | 8 | Russell and Norvig Chapters 10 and 11
 **Probabalistic Reasoning**<br>Graphical Models<br>Bayesian Networks| 9 |
 **AI for Games**<br>Decision-making<br>Behavior Trees<br>GOAP<br>The Horizon | 10 |
 
