@@ -45,12 +45,18 @@ As this is an advanced course in computer science, the work and reading loads wi
 
 ## Schedule
 
-Week | Topic | Reading and Assignments
+Topic | Weeks | Reading and Assignments
 ---- | ----- | ------
-1 | Introduction to and History of AI<br>Landscape of AI | Russell and Norvig Chapters 1 & 2<br/>The Knowledge Level by Newell
-2 | *Search*<br>Pathplanning | Russell and Norvig Chapter 3
-3 | *Learning*<br>Statistics-based<br>Symbolic<br>Evolutionary |
-4 | | 
+Introduction<br>History<br>Overview | 1 | Russell and Norvig Chapters 1 & 2<br/>The Knowledge Level by Newell
+**Search**<br>Pathplanning<br>Adversarial | 2-3 |Russell and Norvig Chapter 3
+**Learning**<br>Statistics-based<br>Evolutionary<br>Symbolic | 4-5 | 
+**Knowledge Representation**<br>Ontologies | 6 |
+**Constraint Satisfaction**<br>Procedural Generation<br>Grammars | 6 |
+**Logic**<br>Propositional<br>Frist-order<br>Expert Systems<br>Rules-based Systems | 7 | 
+**Planning**<br>Generative<br>Reactive | 8 | 
+**Probabalistic Reasoning**<br>Graphical Models<br>Bayesian Networks| 9 |
+**AI for Games**<br>Decision-making<br>Behavior Trees<br>GOAP<br>The Horizon | 10 |
+
 
 ## Due Dates
 
