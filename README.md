@@ -76,8 +76,7 @@ Area | Points
 ------------ | -------------
 Quizzes and Homework | 40
 Project | 30
-Examination | 20
-Participation | 10
+Examination | 30
 
 ### Grade Scale
 
@@ -106,11 +105,11 @@ This course features quarter-long group project featuring the intersection of St
 
 ### Examination
 
-There will be one comprehensive examination over the topic areas covered by the course. 
-
-### Participation
+There will be one comprehensive examination over the topic areas covered by the course. The examination will take place during one or more lecture meetings and may have a take-home component. The homeworks and quizzes are design to serve as the practice exam as well as assessments. 
 
 ### Extra Credit Opportunities
+
+There will be period extra credit opportunities associated with the contents of the course. Likely extra credit activities are attending talks that prominently feature AI, participating in user studies or play testing sessions, and participating in external activities related to AI such as the potential UC Davis StarCraft 2 AI team. The requirements and amount of extra credit rewarded will depend on the specifics of each opportunity.
 
 ## Course Community and Resources
 
