@@ -48,7 +48,7 @@ As this is an advanced course in computer science, the work and reading loads wi
 Topic | Weeks | Reading and Assignments
 ---- | ----- | ------
 Introduction<br>History<br>Overview | 1 | Russell and Norvig Chapters 1 and 2<br/>The Knowledge Level by Newell
-**Search**<br>Pathplanning<br>Adversarial | 2-3 |Russell and Norvig Chapters 3 and 4<br>(Jump Point Search with Goal Bounding)[https://github.com/SteveRabin/JPSPlusWithGoalBounding] by Rabin
+**Search**<br>Pathplanning<br>Adversarial | 2-3 |Russell and Norvig Chapters 3 and 4<br>[Jump Point Search with Goal Bounding](https://github.com/SteveRabin/JPSPlusWithGoalBounding) by Rabin
 **Learning**<br>Statistics-based<br>Evolutionary<br>Symbolic | 4-5 | Russell and Norvig Chapter 18
 **Knowledge Representation**<br>Ontologies | 6 | 
 **Constraint Satisfaction**<br>Procedural Generation<br>Grammars | 6 |
