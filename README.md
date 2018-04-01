@@ -45,17 +45,17 @@ As this is an advanced course in computer science, the work and reading loads wi
 
 ## Schedule
 
-Topic | Weeks | Reading and Assignments
+Topic | Weeks | Reading and Assignments | Lab Project
 ---- | ----- | ------
-Introduction<br>History<br>Overview | 1 | Russell and Norvig Chapters 1 and 2<br/>[The Knowledge Level](materials/TheKnowledgeLevel-Newell.pdf) by Newell
-**Search**<br>Pathplanning<br>Adversarial | 2-3 |Russell and Norvig Chapters 3 and 4<br>[Jump Point Search with Goal Bounding](https://github.com/SteveRabin/JPSPlusWithGoalBounding) by Rabin<br>[The Magic of Monte-Carlo Tree Search](http://www.aifactory.co.uk/newsletter/2017_02_magic_montecarlo.htm)
-**Learning**<br>Statistics-based<br>Evolutionary<br>Symbolic | 4-5 | Russell and Norvig Chapter 18
-**Knowledge Representation**<br>Ontologies | 6 | 
-**Constraint Satisfaction**<br>Procedural Generation<br>Grammars | 6 |
-**Logic**<br>Propositional<br>Frist-order<br>Expert Systems<br>Rules-based Systems | 7 | Russell and Norvig Chapters 7, 8, and 9
-**Planning**<br>Generative<br>Reactive | 8 | Russell and Norvig Chapters 10 and 11
-**Probabalistic Reasoning**<br>Graphical Models<br>Bayesian Networks| 9 |
-**AI for Games**<br>Decision-making<br>Behavior Trees<br>GOAP<br>The Horizon | 9-10 |
+Introduction<br>History<br>Overview | 1 | Russell and Norvig Chapters 1 and 2<br/>[The Knowledge Level] (materials/TheKnowledgeLevel-Newell.pdf) by Newell | Discussion<br>Introduction to Project
+**Search**<br>Pathplanning<br>Adversarial | 2-3 |Russell and Norvig Chapters 3 and 4<br>[Jump Point Search with Goal Bounding](https://github.com/SteveRabin/JPSPlusWithGoalBounding) by Rabin<br>[The Magic of Monte-Carlo Tree Search](http://www.aifactory.co.uk/newsletter/2017_02_magic_montecarlo.htm) | Introduction to RTS games and StarCraft 2
+**Learning**<br>Statistics-based<br>Evolutionary<br>Symbolic | 4-5 | Russell and Norvig Chapter 18 | Project Proposals <br> Team Formation
+**Knowledge Representation**<br>Ontologies | 6 |  | Project Workshop
+**Constraint Satisfaction**<br>Procedural Generation<br>Grammars | 6 | | Project Workshop
+**Logic**<br>Propositional<br>Frist-order<br>Expert Systems<br>Rules-based Systems | 7 | Russell and Norvig Chapters 7, 8, and 9 | Project Check-in Reports
+**Planning**<br>Generative<br>Reactive | 8 | Russell and Norvig Chapters 10 and 11 | Project Workshop
+**Probabalistic Reasoning**<br>Graphical Models<br>Bayesian Networks| 9 | | Project Demos
+**AI for Games**<br>Decision-making<br>Behavior Trees<br>GOAP<br>The Horizon | 9-10 | | Project Demos
 
 
 ## Due Dates
