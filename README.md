@@ -47,9 +47,9 @@ As this is an advanced course in computer science, the work and reading loads wi
 
 Week | Topic | Reading and Assignments
 ---- | ----- | ------
-1 | Introduction to and Historey of AI | Russell and Norvig Chapters 1 & 2<br/>The Knowledge Level by Newell
-2 | Search | Russell and Norvig Chapter 3
-3 | |
+1 | Introduction to and History of AI<br>Landscape of AI | Russell and Norvig Chapters 1 & 2<br/>The Knowledge Level by Newell
+2 | *Search*<br>Pathplanning | Russell and Norvig Chapter 3
+3 | *Learning*<br>Statistics-based<br>Symbolic<br>Evolutionary |
 4 | | 
 
 ## Due Dates
