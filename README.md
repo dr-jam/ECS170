@@ -55,7 +55,7 @@ Introduction<br>History<br>Overview | 1 | Russell and Norvig Chapters 1 and 2<br
 **Logic**<br>Propositional<br>Frist-order<br>Expert Systems<br>Rules-based Systems | 7 | Russell and Norvig Chapters 7, 8, and 9
 **Planning**<br>Generative<br>Reactive | 8 | Russell and Norvig Chapters 10 and 11
 **Probabalistic Reasoning**<br>Graphical Models<br>Bayesian Networks| 9 |
-**AI for Games**<br>Decision-making<br>Behavior Trees<br>GOAP<br>The Horizon | 10 |
+**AI for Games**<br>Decision-making<br>Behavior Trees<br>GOAP<br>The Horizon | 9-10 |
 
 
 ## Due Dates
