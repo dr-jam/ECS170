@@ -101,6 +101,8 @@ F  | 0
 
 There will be a quiz and a homework for each major topic in the course and will comprise the largest portion of your grade. Each quiz will be weighted equally with respect to your quiz and homework total score. Quizzes will be taken in either lecture or lab meetings and will be announced ahead of time. All students are required to complete the homework assignments. Homework will not be graded but valid attempts must be made on each question. If the homework is missing or incomplete, the score of the related quiz may be penalized. Homework will be submitted via GradeScope.
 
+It is important to be exposed to code of professional quality as often as possible. To achieve this exposure, some homework will require reading and interpreting complex codebases. As you are students studying computer science, there is no shame not being able to completely interpret complex programs. Please seek help from the TAs, the instructor, and your peers if there are parts of these codebases you do not understand. Take solace in the fact that most of the class will struggle with these interpretations.
+
 ### Project
 
 This course features quarter-long group project featuring the intersection of StarCraft II and the artificial intelligence techniques discussed in class.
