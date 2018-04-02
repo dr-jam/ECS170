@@ -104,6 +104,23 @@ There will be a quiz and a homework for each major topic in the course and will 
 
 This course features quarter-long group project featuring the intersection of StarCraft II and the artificial intelligence techniques discussed in class.
 
+Project Deliverables | Point Allocation
+---------------------|------------------
+Project proposal | 20 
+Code tour of Solution | 30
+Individual weekly development logs | 20
+Project report | 15
+Website containing all deliverables | 10
+Confidential peer assessment | 5
+
+**sample outline**
+**presentation criteria**
+**advice for a good project**
+* meet often
+* get started early
+* communicate about difficulties
+* commit code often / use version control (github recommended)
+
 ### Examination
 
 There will be one comprehensive examination over the topic areas covered by the course. The examination will take place during one or more lecture meetings and may have a take-home component. The homeworks and quizzes are design to serve as the practice exam as well as assessments. 
