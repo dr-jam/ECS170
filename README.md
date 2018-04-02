@@ -11,7 +11,7 @@ Dr. Joshua A. McCoy, Assistant Professor
 Computer Science and Cinema and Digital Media Departments  
 Email: jamccoy at ucdavis dot edu  
 Office: 3033 Kemper Hall  
-Office Hours: Mondays noon-1:00pm, Fridays, 10:00-11:00am  
+Office Hours: Tuesdays 2:00-3:00pm and Fridays 10:00-11:00am  
 http://joshmccoy.com  
 https://faculty.engineering.ucdavis.edu/mccoy/  
 https://www.twitter.com/deftjams  
@@ -28,8 +28,8 @@ jain at ucdavis dot edu
 
 ### Course
 Lecture Meeting Time: Mondays, Wednesdays, and Fridays at 9:00-9:50 am in Wellman 106  
-Section 1 Lab: Mondays at 12:10-1:00 pm in Olson 158  
-Section 2 Lab: Thursdays at 3:10-4:00 pm in Wellman 212  
+A01 Lab: Mondays at 12:10-1:00 pm in Olson 158  
+A02 Lab: Thursdays at 3:10-4:00 pm in Wellman 212  
 Final Examination Period: June 12th at 1:00 pm  
 
 ## Course Description
