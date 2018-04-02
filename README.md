@@ -54,7 +54,7 @@ Introduction<br>History<br>Overview | 1 | Russell and Norvig Chapters 1 and 2<br
 **Learning**<br>Statistics-based<br>Evolutionary<br>Symbolic | 4-5 | Russell and Norvig Chapter 18 | Project Proposals <br> Team Formation
 **Knowledge Representation**<br>Ontologies | 6 |  | Project Workshop
 **Constraint Satisfaction**<br>Procedural Generation<br>Grammars | 6 | | Project Workshop
-**Logic**<br>Propositional<br>Frist-order<br>Expert Systems<br>Rules-based Systems | 7 | Russell and Norvig Chapters 7, 8, and 9 | Project Check-in Reports
+**Logic**<br>Propositional<br>First-order<br>Expert Systems<br>Rules-based Systems | 7 | Russell and Norvig Chapters 7, 8, and 9 | Project Check-in Reports
 **Planning**<br>Generative<br>Reactive | 8 | Russell and Norvig Chapters 10 and 11 | Project Workshop
 **Probabalistic Reasoning**<br>Graphical Models<br>Bayesian Networks| 9 | | Project Demos
 **AI for Games**<br>Decision-making<br>Behavior Trees<br>GOAP<br>The Horizon | 9-10 | | Project Demos
