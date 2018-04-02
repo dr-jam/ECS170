@@ -156,7 +156,9 @@ Use the following information to join:
 
 ### GradeScope
 
-GradeScope is where you will submit your homework in PDF format. Site and sign-up information forthcoming.
+GradeScope is where you will submit your homework in PDF format. Use the following:
+* Sign-up link: https://gradescope.com/courses/17415
+* Entry code: 9D5NX6
 
 ## UC Davis Code of Academic Conduct
 
