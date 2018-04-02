@@ -34,7 +34,8 @@ Final Examination Period: June 12th at 1:00 pm
 
 ## Course Description
 
-This course is a elucidation of the theory, techniques and design in the field of artificial intelligence (AI). The course is framed around the major subfields of AI. As the scope of the area is larger than can fit into a single course, the detail covered over topics in this course will weave between conceptual and concrete. AI systems and techniques used in game AI will be be a focus in the course and will be used to frame lectures and motivate examples.  
+This course is a elucidation of the theory, techniques and design in the field of artificial intelligence (AI). The course is framed around the major subfields of AI. As the scope of the area is larger than can fit into a single course, the detail covered over topics in this course will weave between conceptual and concrete. AI systems and techniques used in game AI will be be a focus in the course and will be used to frame lectures and motivate examples.
+
 As this is an advanced course in computer science, the work and reading loads will be appropriately advanced and difficult for those students who are newer to the field. Reading in advance of the lectures and leveraging office hours and the provided course communication tools are highly recommended.
 
 ### Learning Outcomes
@@ -164,7 +165,9 @@ The UC Davis Code of Academic Conduct (http://sja.ucdavis.edu/files/cac.pdf) wil
 The use of laptops and technology in general are encouraged in this course as long as they are not disruptive to the rest of the class. If you choose to use a device with a screen, please sit in the back of the room to avoid distracting your fellow students. You are required to ask for permission before video or audio recording in the classroom. In general, students will be treated as adults capable of managing their technological lives while being respectful of others in the classroom.
 
 ## Social Media Policy  
-Students are not permitted to make visual or audio recordings, including live streaming, of classroom lectures or any class related content, using any type of recording devices (e.g., smart phone, computer, digital recorder, etc.) unless prior permission from the instructor is obtained, and there are no objections from any of the students in the class. If permission is granted, personal use and sharing of recordings and any electronic copies of course materials (e.g., PowerPoints, formulas, lecture notes and any classroom discussions online or otherwise) is limited to the personal use of students registered in the course and for educational purposes only, even after the end of the course.   
+Students are not permitted to make visual or audio recordings, including live streaming, of classroom lectures or any class related content, using any type of recording devices (e.g., smart phone, computer, digital recorder, etc.) unless prior permission from the instructor is obtained, and there are no objections from any of the students in the class. If permission is granted, personal use and sharing of recordings and any electronic copies of course materials (e.g., PowerPoints, formulas, lecture notes and any classroom discussions online or otherwise) is limited to the personal use of students registered in the course and for educational purposes only, even after the end of the course.
+
 To supplement the classroom experience, lectures may be audio or video recorded by faculty and made available to students registered for this class. Faculty may record classroom lectures or discussions for pedagogical use, future student reference, or to meet the accommodation needs of students with a documented disability. These recordings are limited to personal use and may not be distributed (fileshare), sold, or posted on social media outlets without the written permission of faculty.  
+
 Unauthorized downloading, file sharing, distribution of any part of a recorded lecture or course materials. or using information for purpose other than the student's own learning is prohibited unless prior authorization is given by the instructor.  
 
