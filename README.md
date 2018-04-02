@@ -23,7 +23,7 @@ https://www.twitch.tv/deftjamz
 diayu at ucdavis dot edu
 
 #### Ayush Jain 
-jain at ucdavisd dot edu
+jain at ucdavis dot edu
 
 
 ### Course
