@@ -27,7 +27,7 @@ jain at ucdavis dot edu
 Office hours: Tuesdays 1:00 - 1:30 PM at Kemper 3052
 
 ### Course
-Lecture Meeting Time: Mondays, Wednesdays, and Fridays at 9:00-9:50 am in Wellman 106  
+Lecture Meeting Time: Mondays, Wednesdays, and Fridays at 9:00-9:50 am in ~Wellman 106~ Grove 1309
 A01 Lab: Mondays at 12:10-1:00 pm in Olson 158  
 A02 Lab: Thursdays at 3:10-4:00 pm in Wellman 212  
 Final Examination Period: June 12th at 1:00 pm  
