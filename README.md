@@ -24,7 +24,7 @@ diayu at ucdavis dot edu
 
 #### Ayush Jain 
 jain at ucdavis dot edu  
-Office hours: Tuesdays 1:00 - 1:30 PM at Kemper 3052
+Office hours: Tuesdays 1:00 - 2:00 PM at Kemper 3052
 
 ### Course
 Lecture Meeting Time: Mondays, Wednesdays, and Fridays at 9:00-9:50 am in ~Wellman 106~ Grove 1309  
