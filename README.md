@@ -20,7 +20,7 @@ https://www.twitch.tv/deftjamz
 ### Teaching Assistants
 
 #### Dian Yu	
-diayu at ucdavis dot edu
+diayu at ucdavis dot edu  
 Office Hours: Thursdays 7:00 - 8:00 PM at Kemper 53
 
 #### Ayush Jain 
