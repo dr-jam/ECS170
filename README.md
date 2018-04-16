@@ -21,6 +21,7 @@ https://www.twitch.tv/deftjamz
 
 #### Dian Yu	
 diayu at ucdavis dot edu
+Office Hours: Thursdays 7:00 - 8:00 PM at Kemper 53
 
 #### Ayush Jain 
 jain at ucdavis dot edu  
