@@ -51,7 +51,7 @@ As this is an advanced course in computer science, the work and reading loads wi
 Topic | Weeks | Reading and Assignments | Lab Project
 ---- | ----- | ------ | ------
 Introduction<br>History<br>Overview | 1 | Russell and Norvig Chapters 1 and 2<br/> [The Knowledge Level](materials/TheKnowledgeLevel-Newell.pdf) by Newell | Discussion<br>Introduction to Project
-**Search**<br>Pathplanning<br>Adversarial | 2-3 |Russell and Norvig Chapters 3, 4, and 5<br>[Jump Point Search with Goal Bounding](https://github.com/SteveRabin/JPSPlusWithGoalBounding) by Rabin<br>[The Magic of Monte-Carlo Tree Search](http://www.aifactory.co.uk/newsletter/2017_02_magic_montecarlo.htm) by Mark Winands | Introduction to RTS games and StarCraft 2 <br>Project Proposals <br> Team Formation 
+**Search**<br>Pathplanning<br>Adversarial | 2-3 |Russell and Norvig Chapters 3, 4, and 5<br>[Jump Point Search with Goal Bounding](https://github.com/SteveRabin/JPSPlusWithGoalBounding) by Rabin<br>[Introduction to Monte Carlo Tree Search](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/) | Introduction to RTS games and StarCraft 2 <br>Project Proposals <br> Team Formation 
 **Learning**<br>Statistics-based<br>Evolutionary<br>Reinforcement | 4-5 | Russell and Norvig Chapter 18 | Project Proposals Due <br> Team Formation Complete <br> Group Work Begins
 **Knowledge Representation**<br>Ontologies | 6 |  | Project Workshop
 **Constraint Satisfaction**<br>Procedural Generation<br>Grammars | 6 | | Project Workshop
