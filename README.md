@@ -129,6 +129,11 @@ Confidential peer assessment | 5
 
 There will be one comprehensive examination over the topic areas covered by the course. The examination will take place during one or more lecture meetings and may have a take-home component. The homeworks and quizzes are design to serve as the practice exam as well as assessments. 
 
+### Regrading Policy
+
+You will have 7 calendar days after grades have been returned to ask for a regrade. Regrades requests will be handled by the TAs and inquiries should be directed to them.  
+For material graded before this policy was announced, you will have until Monday, May 7th to make your requests.  
+
 ### Extra Credit Opportunities
 
 There will be period extra credit opportunities associated with the contents of the course. Likely extra credit activities are attending talks that prominently feature AI, participating in user studies or play testing sessions, and participating in external activities related to AI such as the potential UC Davis StarCraft 2 AI team. The requirements and amount of extra credit rewarded will depend on the specifics of each opportunity.
