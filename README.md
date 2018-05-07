@@ -50,12 +50,12 @@ As this is an advanced course in computer science, the work and reading loads wi
 
 Topic | Weeks | Reading and Assignments | Lab Project
 ---- | ----- | ------ | ------
-Introduction<br>History<br>Overview | 1 | Russell and Norvig Chapters 1 and 2<br/> [The Knowledge Level](materials/TheKnowledgeLevel-Newell.pdf) by Newell | Discussion<br>Introduction to Project
-**Search**<br>Pathplanning<br>Adversarial | 2-3 |Russell and Norvig Chapters 3, 4, and 5<br>[Jump Point Search with Goal Bounding](https://github.com/SteveRabin/JPSPlusWithGoalBounding) by Rabin<br>[Introduction to Monte Carlo Tree Search](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/) | Introduction to RTS games and StarCraft 2 <br>Project Proposals <br> Team Formation 
-**Learning**<br>Statistics-based<br>Evolutionary<br>Reinforcement | 4-5 | Russell and Norvig Chapter 18 | Project Proposals Due <br> Team Formation Complete <br> Group Work Begins
-**Knowledge Representation**<br>Ontologies | 6 |  | Project Workshop
-**Constraint Satisfaction**<br>Procedural Generation<br>Grammars | 6 | | Project Workshop
-**Logic**<br>Propositional<br>First-order<br>Expert Systems<br>Rules-based Systems | 7 | Russell and Norvig Chapters 7, 8, and 9 | Project Check-in Reports
+Introduction<br>History<br>Overview | 1-2 | Russell and Norvig Chapters 1 and 2<br/> [The Knowledge Level](materials/TheKnowledgeLevel-Newell.pdf) by Newell | Discussion<br>Introduction to Project
+**Search**<br>Pathplanning<br>Adversarial | 2-4 |Russell and Norvig Chapters 3, 4, and 5<br>[Jump Point Search with Goal Bounding](https://github.com/SteveRabin/JPSPlusWithGoalBounding) by Rabin<br>[Introduction to Monte Carlo Tree Search](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/) | Introduction to RTS games and StarCraft 2 <br>Project Proposals <br> Team Formation 
+**Learning**<br>Neural Networks<br>Evolutionary<br>Reinforcement | 4-6 | Russell and Norvig Chapter 18 (overview) <br> Russell and Norvig Chapter 21 (Reinforcement)<br> | Project Proposals Due <br> Team Formation Complete <br> Group Work Begins
+**Knowledge Representation**<br>Ontologies | 7 |  | Project Check-ins <br> Workshops
+**Constraint Satisfaction**<br>Procedural Generation<br>Grammars | 7 | | Project Check-ins <br> Workshops
+**Logic**<br>Propositional<br>First-order<br>Expert Systems<br>Rules-based Systems | 8 | Russell and Norvig Chapters 7, 8, and 9 | Project Check-in <br> Workshops
 **Planning**<br>Generative<br>Reactive | 8 | Russell and Norvig Chapters 10 and 11 | Project Workshop
 **Probabalistic Reasoning**<br>Graphical Models<br>Bayesian Networks| 9 | | Project Demos
 **AI for Games**<br>Decision-making<br>Behavior Trees<br>GOAP<br>The Horizon | 9-10 | | Project Demos
