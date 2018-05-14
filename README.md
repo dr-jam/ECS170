@@ -53,18 +53,16 @@ Topic | Weeks | Reading and Assignments | Lab Project
 Introduction<br>History<br>Overview | 1-2 | Russell and Norvig Chapters 1 and 2<br/> [The Knowledge Level](materials/TheKnowledgeLevel-Newell.pdf) by Newell | Discussion<br>Introduction to Project
 **Search**<br>Pathplanning<br>Adversarial | 2-4 |Russell and Norvig Chapters 3, 4, and 5<br>[Jump Point Search with Goal Bounding](https://github.com/SteveRabin/JPSPlusWithGoalBounding) by Rabin<br>[Introduction to Monte Carlo Tree Search](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/) | Introduction to RTS games and StarCraft 2 <br>Project Proposals <br> Team Formation 
 **Learning**<br>Neural Networks<br>Evolutionary<br>Reinforcement | 4-6 | Russell and Norvig Chapter 18 (overview) <br> Russell and Norvig Chapter 21 (Reinforcement)<br> | Project Proposals Due <br> Team Formation Complete <br> Group Work Begins
-**Knowledge Representation**<br>Ontologies | 7 |  | Project Check-ins <br> Workshops
+**Knowledge Representation**<br>Evolutionary Algorithms | 7 | [Evolutionary Comutation](https://search.library.ucdavis.edu/primo-explore/fulldisplay?docid=01UCD_ALMA51254791450003126&context=L&vid=01UCD_V1&search_scope=everything_scope&isFrbr=true&tab=default_tab&lang=en_US) Ch. 1 & 3 (2 is optional) | Project Check-ins <br> Workshops
 **Constraint Satisfaction**<br>Procedural Generation<br>Grammars | 7 | | Project Check-ins <br> Workshops
 **Logic**<br>Propositional<br>First-order<br>Expert Systems<br>Rules-based Systems | 8 | Russell and Norvig Chapters 7, 8, and 9 | Project Check-in <br> Workshops
 **Planning**<br>Generative<br>Reactive | 8 | Russell and Norvig Chapters 10 and 11 | Project Workshop
 **Probabalistic Reasoning**<br>Graphical Models<br>Bayesian Networks| 9 | | Project Demos
 **AI for Games**<br>Decision-making<br>Behavior Trees<br>GOAP<br>The Horizon | 9-10 | | Project Demos
 
-
-## Due Dates
-
 ## Texts and Resources
 * ***Required***: Artificial Intelligence: A Modern Approach 3rd edition by Stuart Russell and Peter Norvig. http://aima.cs.berkeley.edu/  
+* *Readings From* Evolutionary Computation: A Unified Approach. Available at the UC Davis library [here](https://search.library.ucdavis.edu/primo-explore/fulldisplay?docid=01UCD_ALMA51254791450003126&context=L&vid=01UCD_V1&search_scope=everything_scope&isFrbr=true&tab=default_tab&lang=en_US)
 * *Optional*:  Artificial Intelligence: Foundations of Computational Agents by David Poole and Alan Mackworth. Freely * available online: http://artint.info  
 * *Optional*:  A Modern Formal Logic Primer by Paul Teller. Freely available online: http://tellerprimer.ucdavis.edu/  
 * *Optional*:  Techniques of Formal Reasoning by Kalish, Montague, and Mar. Chapters I-VI freely available online: http://www.philosophy.ucla.edu/people/faculty/tparsons/Logic%20Text/  
