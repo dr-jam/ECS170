@@ -61,6 +61,7 @@ Introduction<br>History<br>Overview | 1-2 | Russell and Norvig Chapters 1 and 2<
 ## Texts and Resources
 * ***Required***: Artificial Intelligence: A Modern Approach 3rd edition by Stuart Russell and Peter Norvig. http://aima.cs.berkeley.edu/  
 * *Readings From* Evolutionary Computation: A Unified Approach. Available at the UC Davis library [here](https://search.library.ucdavis.edu/primo-explore/fulldisplay?docid=01UCD_ALMA51254791450003126&context=L&vid=01UCD_V1&search_scope=everything_scope&isFrbr=true&tab=default_tab&lang=en_US)
+* *Readings From* Concepts, Ontologies, and Knowledge Representation by Jakus, Grega, Milutinović, Veljko, Omerović, Sanida, and Tomažič, Sašo. Available at the UC Davis library [here](https://search.library.ucdavis.edu/primo-explore/fulldisplay?docid=01UCD_ALMA51253229460003126&context=L&vid=01UCD_V1&search_scope=everything_scope&tab=default_tab&lang=en_US)
 * *Optional*:  Artificial Intelligence: Foundations of Computational Agents by David Poole and Alan Mackworth. Freely * available online: http://artint.info  
 * *Optional*:  A Modern Formal Logic Primer by Paul Teller. Freely available online: http://tellerprimer.ucdavis.edu/  
 * *Optional*:  Techniques of Formal Reasoning by Kalish, Montague, and Mar. Chapters I-VI freely available online: http://www.philosophy.ucla.edu/people/faculty/tparsons/Logic%20Text/  
