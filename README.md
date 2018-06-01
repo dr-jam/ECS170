@@ -55,16 +55,17 @@ Introduction<br>History<br>Overview | 1-2 | Russell and Norvig Chapters 1 and 2<
 **Learning**<br>Neural Networks<br>Reinforcement | 4-6 | Russell and Norvig Chapter 18 (overview) <br> Russell and Norvig Chapter 21 (Reinforcement)<br> | Project Proposals Due <br> Team Formation Complete <br> Group Work Begins
 **Evolutionary Computation**<br>Genetic Algorithms | 7 | [Evolutionary Computation](https://search.library.ucdavis.edu/primo-explore/fulldisplay?docid=01UCD_ALMA51254791450003126&context=L&vid=01UCD_V1&search_scope=everything_scope&isFrbr=true&tab=default_tab&lang=en_US) Ch. 1 & 3 (2 is optional) <br> *Optional:* [The Surprising Creativity of Digital Evolution](https://arxiv.org/pdf/1803.03453.pdf) | Project Check-ins <br> Workshops
 **Knowledge Representation**<br>Concepts<br>Ontologies | 8 | [Concepts, Ontologies, and Knowledge Representation](https://search.library.ucdavis.edu/primo-explore/fulldisplay?docid=01UCD_ALMA51253229460003126&context=L&vid=01UCD_V1&search_scope=everything_scope&tab=default_tab&lang=en_US) Chapters 1,2,3 & 4. | Project Check-ins <br> Workshops
-**Logic**<br>Propositional<br>First-order<br>Expert Systems<br>Rules-based Systems | 9 |  | Project Check-in <br> Workshops
+**Logic**<br>Propositional<br>First-order<br>Expert Systems<br>Rules-based Systems | 9 | [Introduction to Logic](https://search.library.ucdavis.edu/primo-explore/fulldisplay?docid=01UCD_ALMA51303984020003126&context=L&vid=01UCD_V1&search_scope=everything_scope&isFrbr=true&tab=default_tab&lang=en_US) Ch. 2,3,4,5,6 | Project Check-in <br> Workshops
 
 
 ## Texts and Resources
 * ***Required***: Artificial Intelligence: A Modern Approach 3rd edition by Stuart Russell and Peter Norvig. http://aima.cs.berkeley.edu/  
 * *Readings From:* Evolutionary Computation: A Unified Approach. Available at the UC Davis library [here](https://search.library.ucdavis.edu/primo-explore/fulldisplay?docid=01UCD_ALMA51254791450003126&context=L&vid=01UCD_V1&search_scope=everything_scope&isFrbr=true&tab=default_tab&lang=en_US)
 * *Readings From:* Concepts, Ontologies, and Knowledge Representation by Jakus, Grega, Milutinović, Veljko, Omerović, Sanida, and Tomažič, Sašo. Available at the UC Davis library [here](https://search.library.ucdavis.edu/primo-explore/fulldisplay?docid=01UCD_ALMA51253229460003126&context=L&vid=01UCD_V1&search_scope=everything_scope&tab=default_tab&lang=en_US)
+* *Readings From:* Introduction to Logic, Avaiilable at the UC Davis Library [here](https://search.library.ucdavis.edu/primo-explore/fulldisplay?docid=01UCD_ALMA51303984020003126&context=L&vid=01UCD_V1&search_scope=everything_scope&isFrbr=true&tab=default_tab&lang=en_US)
 * *Optional*:  Artificial Intelligence: Foundations of Computational Agents by David Poole and Alan Mackworth. Freely * available online: http://artint.info  
 * *Optional*:  A Modern Formal Logic Primer by Paul Teller. Freely available online: http://tellerprimer.ucdavis.edu/  
-* *Optional*:  Techniques of Formal Reasoning by Kalish, Montague, and Mar. Chapters I-VI freely available online: http://www.philosophy.ucla.edu/people/faculty/tparsons/Logic%20Text/  
+
 * *Optional*: Artificial Intelligence for Games, Second Edition by Ian Millington and John Funge: http://ai4g.com/  
 * *Optional*: Logic in Action Open Course Project. Freely available online: http://www.logicinaction.org/  
 
